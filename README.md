@@ -1,4 +1,5 @@
 
+<embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></embed>
 
 ###开发文档の背景
 
