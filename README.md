@@ -59,7 +59,7 @@ Zoom.ོQuiet 15:17
   * 流水的男人铁打的『蓝盆友』.
 
 3. 资金来源
-      * 账户: bailishanshan@foxmail.com
+      * 支付宝账户: bailishanshan@foxmail.com
       * 不要捐太多钱, 我们暂时用不到.
       * 但会在 GitHub 做记录.
 
