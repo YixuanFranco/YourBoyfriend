@@ -1,5 +1,6 @@
+第一个开源项目，大家都来捧个人场啊！不会写代码也没关系！只要你对男朋友有渴望，都可以加入！我们欢迎你！
 
-<embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></embed>
+还有隔壁的 [铝盆友开发文档](https://github.com/YixuanFranco/yourGirlFriend/blob/master/README.md)
 
 
 ###开发文档の背景
