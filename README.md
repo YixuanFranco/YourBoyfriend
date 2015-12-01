@@ -79,7 +79,7 @@ Zoom.ོQuiet 15:17
 ###如何加入这个项目?
 
 你可以...
-  * 补充你想要的需求.
+  * 补充你想要的需求. [补充地址](https://github.com/YixuanFranco/yourboyfriend/issues/2)
   * 补充你对男朋友的幻想.
   * 写下你会的编程语言.
   * 认领你想要实现的模块.
