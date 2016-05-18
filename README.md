@@ -39,6 +39,9 @@ Zoom.ོQuiet 15:17
 **萱小璧. ོYixuan** 15:18
 不然简直对不起我的宿命
 
+HC-winner 13：58
+i just want to have a try
+
 ###为了宿命
 所以我们将开发 『蓝盆友』 品牌, 线上线下 360° 无死角满足你对男朋友的幻想.
 此项目为开源项目, 使用 `DO WHAT THE FUCK YOU WANT LICENSE`.
